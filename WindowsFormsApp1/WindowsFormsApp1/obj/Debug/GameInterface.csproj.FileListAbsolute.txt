@@ -1,0 +1,5 @@
+D:\ITI intake40\C# - Core\Final Project\CSharpProject - GameInterface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GameInterface.csprojAssemblyReference.cache
+D:\ITI intake40\C# - Core\Final Project\CSharpProject - GameInterface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\ITI intake40\C# - Core\Final Project\CSharpProject - GameInterface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GameInterface.csproj.GenerateResource.cache
+D:\ITI intake40\C# - Core\Final Project\CSharpProject - GameInterface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ITI intake40\C# - Core\Final Project\CSharpProject - GameInterface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

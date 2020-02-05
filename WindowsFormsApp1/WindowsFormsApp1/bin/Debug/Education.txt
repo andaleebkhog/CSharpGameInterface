@@ -1,0 +1,10 @@
+school
+teacher
+student
+book
+pencil
+pen
+chair
+exam
+board
+quiz
